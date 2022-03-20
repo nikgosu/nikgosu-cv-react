@@ -21,7 +21,7 @@ const App = () => {
 
 		},
 		{
-			company: 'Fitness club Storm, Фитнес система "Высшая лига"',
+			company: 'Fitness club Storm',
 			position: 'Фитнес тренер',
 			term: '2017 - 2018',
 		},
@@ -30,20 +30,17 @@ const App = () => {
 		{
 			institution: 'Международный Гуманитарный Университет',
 			faculty: 'Факультет менеджмента и маркетинга',
-			speciality: 'Специальность компьютерная инженерия',
-			degree: 'Бакалавр'
+			speciality: 'Компьютерная инженерия, бакалавр',
 		},
 		{
 			institution: 'Економико-правовой колледж',
 			faculty: 'Факультет информационных технологий',
-			speciality: 'Специальность обслуживание компьютерных систем и сетей',
-			degree: 'Младший специалист'
+			speciality: 'Обслуживание компьютерных систем и сетей, младший специалист',
 		},
 		{
 			institution: 'Hillel IT school',
 			faculty: 'Курс Front-end Pro',
-			speciality: 'Специализация JavaScript',
-			degree: 'Front-end developer'
+			speciality: 'Front-end developer',
 		},
 	])
 
